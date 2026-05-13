@@ -2,10 +2,14 @@
 
 ## Задание 1
 
-![url](https://github.com/monzhelesov/HWORKS/blob/main/1.png)
+![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/1.png)
+![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/2.png)
+![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/3.png)
+![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/4.png)
 
-
-Манифесты:
-- [deploy.yaml](deployments.yaml)
-- [policy.yaml](networkpolicy.yaml)
-- [services.yaml](services.yaml)
+Конфигурационные файлы:
+- [main](main.tf)
+- [locals](locals.tf)
+- [variables](variables.tf)
+- [vm](vm.tf)
+- [outputs](outputs.tf)
