@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Организация сети» - Монжелесов Роман
+# Домашнее задание к занятию «Вычислительные мощности. Балансировщики нагрузки» - Монжелесов Роман
 
 ## Задание 1
 
@@ -13,3 +13,7 @@
 - [variables](variables.tf)
 - [vm](vm.tf)
 - [outputs](outputs.tf)
+- [bucket](bucket.tf)
+- [instance-group](instance-group.tf)
+- [load-balancer](load-balancer.tf)
+- [image for bucket](image.png)
