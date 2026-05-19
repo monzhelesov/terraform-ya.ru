@@ -2,10 +2,10 @@
 
 ## Задание 1
 
-![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/1.png)
-![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/2.png)
-![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/3.png)
-![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/4.png)
+![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/11.png)
+![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/22.png)
+![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/33.png)
+![url](https://github.com/monzhelesov/terraform-ya.ru/blob/main/44.png)
 
 Конфигурационные файлы:
 - [main](main.tf)
