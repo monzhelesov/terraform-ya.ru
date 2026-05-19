@@ -16,4 +16,4 @@
 - [bucket](bucket.tf)
 - [instance-group](instance-group.tf)
 - [load-balancer](load-balancer.tf)
-- [image for bucket](image.png)
+- [image for bucket](image.jpg)
